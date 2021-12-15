@@ -1,3 +1,5 @@
+-- Source: https://stackoverflow.com/a/9639985
+
 SELECT
     DS.Name AS DatasourceName,
     C.Name AS DependentItemName, 
